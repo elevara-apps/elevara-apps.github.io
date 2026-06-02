@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contact Support | Elevara</title>
+    <meta name="description" content="Contact Elevara support for AdminLedger for Jira." />
+    <link rel="stylesheet" href="../assets/styles.css" />
+    <script src="../assets/site.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="../" aria-label="Elevara home">
+        <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+        <span>Elevara</span>
+      </a>
+      <nav aria-label="Main navigation">
+        <a aria-current="page" href="./">Support</a>
+        <a href="../privacy/">Privacy</a>
+        <a href="../terms/">Terms</a>
+        <a href="../guide/">Guide</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      <section class="page-heading">
+        <p class="eyebrow">Customer support</p>
+        <h1>Contact Elevara support.</h1>
+        <p class="lede">
+          Send questions about AdminLedger for Jira installation, billing, reports, privacy, or security.
+        </p>
+      </section>
+
+      <section class="form-layout">
+        <form
+          class="contact-form"
+          action="https://formsubmit.co/setasidesignal@gmail.com"
+          method="POST"
+        >
+          <input type="hidden" name="_subject" value="AdminLedger for Jira support request" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_captcha" value="true" />
+          <input type="hidden" name="_next" value="https://udemex10.github.io/elevara-adminledger-site/thanks/" />
+          <input type="text" name="_honey" class="hidden-field" tabindex="-1" autocomplete="off" />
+
+          <label>
+            Name
+            <input name="name" type="text" autocomplete="name" required />
+          </label>
+
+          <label>
+            Work email
+            <input name="email" type="email" autocomplete="email" required />
+          </label>
+
+          <label>
+            Atlassian site URL
+            <input name="atlassian_site" type="url" placeholder="https://example.atlassian.net" />
+          </label>
+
+          <label>
+            Topic
+            <select name="topic" required>
+              <option value="">Select a topic</option>
+              <option>Installation</option>
+              <option>Billing or licensing</option>
+              <option>Privacy or security</option>
+              <option>Report publishing</option>
+              <option>General support</option>
+            </select>
+          </label>
+
+          <label class="full-span">
+            Message
+            <textarea name="message" rows="7" required></textarea>
+          </label>
+
+          <button class="button primary" type="submit">Send request</button>
+        </form>
+
+        <aside class="support-notes">
+          <p class="eyebrow">Response target</p>
+          <h2>One business day for standard support.</h2>
+          <p>
+            Security and privacy issues are triaged with priority. Include your Atlassian site URL and the app screen involved when possible.
+          </p>
+          <ul>
+            <li>AdminLedger for Jira installation support</li>
+            <li>Marketplace billing and licensing questions</li>
+            <li>Confluence publishing setup</li>
+            <li>Privacy and security requests</li>
+          </ul>
+        </aside>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>Elevara</span>
+      <span><a href="../privacy/">Privacy</a> <a href="../terms/">Terms</a></span>
+    </footer>
+  </body>
+</html>
