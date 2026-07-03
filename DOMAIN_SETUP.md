@@ -4,6 +4,13 @@ Domain: `elevara-apps.xyz`
 
 GitHub Pages repository: `elevara-apps/elevara-apps.github.io`
 
+Status as of July 3, 2026:
+
+- GitHub Pages custom domain is set to `elevara-apps.xyz`.
+- Namecheap Advanced DNS records below have been added.
+- Namecheap authoritative nameservers return the correct GitHub Pages records.
+- GitHub HTTPS enforcement is pending certificate issuance.
+
 ## Namecheap DNS Records
 
 In Namecheap, open **Domain List -> elevara-apps.xyz -> Manage -> Advanced DNS**.
