@@ -1,0 +1,12 @@
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Elevara logo</title>
+  <desc id="desc">Elevara wordmark with a minimalist three-column brand mark.</desc>
+  <rect width="640" height="180" rx="28" fill="#FFFEFA"/>
+  <g transform="translate(48 36)">
+    <rect width="108" height="108" rx="22" fill="#0F172A"/>
+    <rect x="26" y="28" width="17" height="52" rx="6" fill="#2563EB"/>
+    <rect x="46" y="38" width="17" height="42" rx="6" fill="#0B1F3A"/>
+    <rect x="66" y="22" width="17" height="58" rx="6" fill="#F59E0B"/>
+  </g>
+  <text x="188" y="111" fill="#171717" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="760" letter-spacing="0">Elevara</text>
+</svg>
