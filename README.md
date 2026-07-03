@@ -4,6 +4,6 @@ Static GitHub Pages site for AdminLedger for Jira support, privacy policy, terms
 
 Target public URL:
 
-https://elevara-apps.github.io/
+https://elevara-apps.xyz/
 
 The contact form uses FormSubmit for static form delivery. The first submission may require inbox activation before messages are forwarded.
